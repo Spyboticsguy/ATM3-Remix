@@ -3,9 +3,9 @@
     "charge": 50,
     "ingredients": [
         {
-            "item": "minecraft:item_material",
+            "item": "atmtweaks:item_material",
 			"data": 1
         }
     ],
-    "result_count": 1
+    "result_count": 2
 }
